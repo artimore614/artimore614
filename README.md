@@ -98,7 +98,7 @@ A Data Analysis and Machine Learning project using the Seattle Weather dataset.
 ## 📫 Connect With Me
 
 - 💻 GitHub: [artimore614](https://github.com/artimore614)
-- 💼 LinkedIn: Add your LinkedIn profile link here
+- 💼 LinkedIn: [Arti More](https://www.linkedin.com/in/arti-more-158b1734a)
 
 ---
 
