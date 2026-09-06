@@ -24,51 +24,23 @@
 
 ## 🚀 My Roles
 
-<p>
-✨ Data Science Student &nbsp; • &nbsp; 📊 Data Analyst &nbsp; • &nbsp; 🤖 ML Enthusiast &nbsp; • &nbsp; 🐍 Python Developer
-</p>
+✨ Data Science Student • 📊 Data Analyst • 🤖 ML Enthusiast • 🐍 Python Developer
 
 ---
 
 ## 💻 Programming Languages
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=r" width="48"/><br/><b>R</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><b>SQL / MySQL</b></td>
-</tr>
-</table>
-
----
+| 🐍 Python | 📊 R | 🗄️ SQL / MySQL |
+|---|---|---|
+| Python | R | SQL |
 
 ## 📚 Libraries & Frameworks
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/pandas" width="48"/><br/><b>Pandas</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/numpy" width="48"/><br/><b>NumPy</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/scikitlearn" width="48"/><br/><b>Scikit-learn</b></td>
-<td align="center"><b>📊</b><br/><b>Matplotlib</b></td>
-<td align="center"><b>📈</b><br/><b>Seaborn</b></td>
-<td align="center"><b>📉</b><br/><b>Plotly</b></td>
-</tr>
-</table>
-
----
+Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Plotly
 
 ## 🛠️ Tools & Technologies
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><b>GitHub</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><b>VS Code</b></td>
-<td align="center"><b>📊</b><br/><b>Power BI</b></td>
-<td align="center"><b>📈</b><br/><b>Tableau</b></td>
-<td align="center"><b>📑</b><br/><b>Excel</b></td>
-</tr>
-</table>
+Git • GitHub • VS Code • Power BI • Tableau • Excel
 
 ---
 
@@ -100,20 +72,20 @@
 
 **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
 
-### 🌦️ Seattle Weather Analysis
-> Analyzing weather data and building Machine Learning models using the Seattle Weather dataset.
+### 🌦️ Weather Prediction using Machine Learning
+> End-to-end weather prediction project using the Seattle Weather dataset, including data cleaning, EDA, feature selection and model selection.
 
-**Highlights:** Data Cleaning • EDA • Visualization • Feature Engineering • Machine Learning
+🔗 **Repository:** [View Weather Prediction Project](https://github.com/artimore614/Weather-Prediction)
 
-**Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
+**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Machine Learning`
 
 ---
 
 ## 📚 Certifications & Learning
 
-🐍 Python &nbsp;|&nbsp; 🗄️ SQL &nbsp;|&nbsp; 📊 Power BI &nbsp;|&nbsp; 📈 Excel
+🐍 Python | 🗄️ SQL | 📊 Power BI | 📈 Excel
 
-🔐 Cybersecurity – Cisco Networking &nbsp;|&nbsp; 💼 Deloitte Data Analytics Virtual Internship
+🔐 Cybersecurity – Cisco Networking | 💼 Deloitte Data Analytics Virtual Internship
 
 ---
 
