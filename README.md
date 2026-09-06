@@ -1,30 +1,25 @@
-<h1 align="center">✨ Hi, I'm <span style="color:#58A6FF">Arti More</span> 👋</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | 📊 Data Analyst | 🤖 ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Turning+Data+into+Insights+%E2%9C%A8" />
-</p>
+# ✨ 𝓐𝓻𝓽𝓲 𝓜𝓸𝓻𝓮 ✨
+### `Aspiring Data Scientist • Data Analyst • ML Enthusiast`
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D" />
+
 <a href="https://www.linkedin.com/in/arti-more-158b1734a"><img src="https://img.shields.io/badge/LinkedIn-Arti%20More-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/artimore614"><img src="https://img.shields.io/badge/GitHub-artimore614-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-```text
-🎓 BSc Data Science Student
-📊 Aspiring Data Scientist & Data Analyst
-🤖 Exploring Machine Learning & Predictive Analytics
-📈 Turning raw data into meaningful insights
-🌱 Continuously learning and building projects
-💡 Open to learning and collaboration
-```
-
-## 🚀 My Roles
-✨ Data Science Student • 📊 Data Analyst • 🤖 ML Enthusiast • 🐍 Python Developer
+> 🎓 **BSc Data Science Student**  
+> 📊 **Aspiring Data Scientist & Data Analyst**  
+> 🤖 **Exploring Machine Learning & Predictive Analytics**  
+> 📈 **Turning raw data into meaningful insights**  
+> 🌱 **Continuously learning and building projects**  
+> 💡 **Open to learning and collaboration**
 
 ---
 
