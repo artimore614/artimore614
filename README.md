@@ -50,13 +50,15 @@
 ---
 
 ## 📊 GitHub Statistics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=artimore614&show_icons=true&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artimore614&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=artimore614&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="Arti More GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artimore614&layout=compact&langs_count=6&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
-## 🔥 GitHub Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=artimore614&hide_border=true" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artimore614&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
