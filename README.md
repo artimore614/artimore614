@@ -1,109 +1,92 @@
-# Hi 👋, I'm Arti More
+<h1 align="center">Hi 👋, I'm Arti More</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | 📊 Data Analyst | 🤖 ML Enthusiast</h3>
 
-### Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics
-
-Welcome to my GitHub profile! 🚀
-
-I am a passionate Data Science student interested in transforming raw data into meaningful insights. I enjoy working with Python, SQL, Machine Learning, Data Analytics, and Data Visualization.
+<p align="center">
+  <a href="https://www.linkedin.com/in/arti-more-158b1734a"><img src="https://img.shields.io/badge/LinkedIn-Arti%20More-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/artimore614"><img src="https://img.shields.io/badge/GitHub-artimore614-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 BSc Data Science Student
-- 📊 Aspiring Data Scientist and Data Analyst
-- 🐍 Working with Python for Data Analysis and Machine Learning
-- 🗄️ Skilled in SQL and Database concepts
-- 📈 Experience with Power BI, Excel, and Data Visualization
-- 🤖 Interested in Machine Learning and Predictive Analytics
-- 🌱 Currently improving my technical and problem-solving skills
-- 💡 Open to learning, collaboration, and new opportunities
+```text
+🎓 BSc Data Science Student
+📊 Aspiring Data Scientist & Data Analyst
+🤖 Exploring Machine Learning & Predictive Analytics
+📈 Turning raw data into meaningful insights
+🌱 Continuously learning and building projects
+```
 
----
+## 🚀 My Roles
 
-## 🛠️ Technical Skills
+- 👩‍💻 **Data Science Student**
+- 📊 **Aspiring Data Analyst**
+- 🤖 **Aspiring Data Scientist**
+- 📈 **Machine Learning Enthusiast**
+- 📉 **Data Visualization Enthusiast**
 
-### 💻 Programming Languages
-- Python
-- SQL
-- R
+## 💻 Programming Languages
 
-### 🤖 Data Science & Machine Learning
-- Pandas
-- NumPy
-- Scikit-learn
-- Machine Learning
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Feature Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql" />
+</p>
 
-### 📊 Data Visualization
-- Matplotlib
-- Seaborn
-- Plotly
-- Power BI
-- Tableau
+## 🛠️ Data Science & Tools
 
-### 🔧 Tools & Technologies
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- Microsoft Excel
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Data & ML:** Pandas • NumPy • Scikit-learn • EDA • Feature Engineering • Data Cleaning
+
+**Visualization:** Matplotlib • Seaborn • Plotly • Power BI • Tableau • Excel
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎓 Student Placement Prediction
-A Machine Learning project that predicts student placement based on academic and other relevant features.
+> Predicting student placement using Machine Learning and academic data.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Machine Learning
+**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
 
 ### 🌦️ Seattle Weather Analysis
-A Data Analysis and Machine Learning project using the Seattle Weather dataset.
+> Analyzing weather data and building Machine Learning models using the Seattle Weather dataset.
 
-**Project Includes:**
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Feature Engineering
-- Machine Learning
+**Highlights:** Data Cleaning • EDA • Visualization • Feature Engineering • Machine Learning
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+**Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
 
 ---
 
-## 📚 Certifications
+## 📚 Certifications & Learning
 
-- 🐍 Python Certification
-- 🗄️ SQL Certification
-- 📊 Power BI Certification
-- 📈 Excel Certification
-- 🔐 Cybersecurity Certification – Cisco Networking
-- 💼 Deloitte Data Analytics Virtual Internship
+🐍 Python &nbsp;|&nbsp; 🗄️ SQL &nbsp;|&nbsp; 📊 Power BI &nbsp;|&nbsp; 📈 Excel
+
+🔐 Cybersecurity – Cisco Networking &nbsp;|&nbsp; 💼 Deloitte Data Analytics Virtual Internship
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning
-- Advanced SQL
-- Data Analytics
-- Data Structures and Algorithms
-- Model Deployment
+```text
+🤖 Advanced Machine Learning
+🗄️ Advanced SQL
+📊 Data Analytics
+🧠 Data Structures & Algorithms
+🚀 Model Deployment
+```
+
+## 📫 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/arti-more-158b1734a"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/artimore614"><img src="https://img.shields.io/badge/Follow%20me-GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+<h3 align="center">✨ "Turning Data into Insights and Ideas into Projects." ✨</h3>
 
-- 💻 GitHub: [artimore614](https://github.com/artimore614)
-- 💼 LinkedIn: [Arti More](https://www.linkedin.com/in/arti-more-158b1734a)
-
----
-
-### 💭 Quote
-
-> "Success is the result of continuous learning, consistency, and hard work."
-
-⭐ **Feel free to explore my repositories and connect with me!**
+<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories. ⭐</p>
