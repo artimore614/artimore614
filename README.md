@@ -72,6 +72,8 @@ Git • GitHub • VS Code • Power BI • Tableau • Excel
 
 **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
 
+🔗 **Repository:** [View Student Placement Prediction Project](https://github.com/artimore614?tab=repositories)
+
 ### 🌦️ Weather Prediction using Machine Learning
 > End-to-end weather prediction project using the Seattle Weather dataset, including data cleaning, EDA, feature selection and model selection.
 
