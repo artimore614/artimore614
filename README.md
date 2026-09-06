@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arti-more-158b1734a"><img src="https://img.shields.io/badge/LinkedIn-Arti%20More-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/artimore614"><img src="https://img.shields.io/badge/GitHub-artimore614-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=artimore614&label=Profile%20Views&style=for-the-badge" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/arti-more-158b1734a"><img src="https://img.shields.io/badge/LinkedIn-Arti%20More-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/artimore614"><img src="https://img.shields.io/badge/GitHub-artimore614-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -29,29 +28,47 @@
 ✨ Data Science Student &nbsp; • &nbsp; 📊 Data Analyst &nbsp; • &nbsp; 🤖 ML Enthusiast &nbsp; • &nbsp; 🐍 Python Developer
 </p>
 
+---
+
 ## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,mysql" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=r" width="48"/><br/><b>R</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><b>SQL / MySQL</b></td>
+</tr>
+</table>
 
-## 🛠️ Languages, Libraries & Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode" />
-</p>
+## 📚 Libraries & Frameworks
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/pandas" width="48"/><br/><b>Pandas</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/numpy" width="48"/><br/><b>NumPy</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/scikitlearn" width="48"/><br/><b>Scikit-learn</b></td>
+<td align="center"><b>📊</b><br/><b>Matplotlib</b></td>
+<td align="center"><b>📈</b><br/><b>Seaborn</b></td>
+<td align="center"><b>📉</b><br/><b>Plotly</b></td>
+</tr>
+</table>
 
-**Data Skills:** Data Cleaning • EDA • Feature Engineering • Machine Learning • Predictive Analytics
+---
 
-**Visualization:** Matplotlib • Seaborn • Plotly • Power BI • Tableau • Excel
+## 🛠️ Tools & Technologies
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><b>GitHub</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><b>VS Code</b></td>
+<td align="center"><b>📊</b><br/><b>Power BI</b></td>
+<td align="center"><b>📈</b><br/><b>Tableau</b></td>
+<td align="center"><b>📑</b><br/><b>Excel</b></td>
+</tr>
+</table>
 
 ---
 
@@ -113,8 +130,8 @@
 ## 📫 Let's Connect
 
 <p>
-<a href="https://www.linkedin.com/in/arti-more-158b1734a"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://github.com/artimore614"><img src="https://img.shields.io/badge/Follow%20me-GitHub-black?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/arti-more-158b1734a"><img src="https://img.shields.io/badge/LinkedIn-Arti%20More-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/artimore614"><img src="https://img.shields.io/badge/GitHub-artimore614-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
