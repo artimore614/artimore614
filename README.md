@@ -1,7 +1,6 @@
 <div align="center">
 
 # ✨ 𝓐𝓻𝓽𝓲 𝓜𝓸𝓻𝓮 ✨
-### `Aspiring Data Scientist • Data Analyst • ML Enthusiast`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D" />
 
