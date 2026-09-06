@@ -24,25 +24,27 @@
 
 ## 💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" width="55"/> <b>Python</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=r" width="55"/> <b>R</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/> <b>SQL / MySQL</b>
+<img src="https://skillicons.dev/icons?i=python" width="55" title="Python"/> <b>Python</b>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=r" width="55" title="R"/> <b>R</b>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="55" title="SQL / MySQL"/> <b>SQL / MySQL</b>
 </p>
 
 ## 📚 Libraries & Frameworks
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/> <b>Pandas</b>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/> <b>NumPy</b>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/> <b>Scikit-learn</b>&nbsp;&nbsp;
-📊 <b>Matplotlib</b>&nbsp;&nbsp; 📈 <b>Seaborn</b>&nbsp;&nbsp; 📉 <b>Plotly</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" title="Pandas"/> <b>Pandas</b>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" title="NumPy"/> <b>NumPy</b>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" title="Scikit-learn"/> <b>Scikit-learn</b>&nbsp;&nbsp;&nbsp;
+📊 <b>Matplotlib</b>&nbsp;&nbsp;&nbsp; 📈 <b>Seaborn</b>&nbsp;&nbsp;&nbsp; 📉 <b>Plotly</b>
 </p>
 
 ## 🛠️ Tools & Technologies
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git" width="55"/> <b>Git</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="55"/> <b>GitHub</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/> <b>VS Code</b>&nbsp;&nbsp;
-📊 <b>Power BI</b>&nbsp;&nbsp; 📈 <b>Tableau</b>&nbsp;&nbsp; 📗 <b>Excel</b>
+<img src="https://skillicons.dev/icons?i=git" width="55" title="Git"/> <b>Git</b>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub"/> <b>GitHub</b>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="55" title="VS Code"/> <b>VS Code</b>&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/power-bi.png" width="55" title="Power BI"/> <b>Power BI</b>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="55" title="Tableau"/> <b>Tableau</b>&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="55" title="Excel"/> <b>Excel</b>
 </p>
 
 ---
@@ -72,11 +74,26 @@ Predicting weather conditions using Machine Learning and Seattle Weather Data.
 
 ---
 
-## 📚 Certifications & Learning
-🐍 Python | 🗄️ SQL | 📊 Power BI | 📈 Excel | 🔐 Cybersecurity
+## 📜 Certifications
+
+🐍 **Python Certification** — [View Certificate](https://lnkd.in/p/decsx7bR)
+
+🗄️ **SQL Certification** — [View Certificate](https://lnkd.in/p/dM6jutNc)
+
+📊 **Power BI Certification** — [View Certificate](https://lnkd.in/p/dT5FQ7Ph)
+
+📈 **Excel Certification** — [View Certificate](https://lnkd.in/p/dSTHg8Hp)
+
+🔐 **Cybersecurity Certification** — [View Certificate](https://lnkd.in/p/dKFu53tB)
+
+📚 **Data Analytics for Business Professionals** — [View Certificate](https://lnkd.in/p/dQvhvZWS)
+
+🐍 **Python Programming Certification** — [View Certificate](https://lnkd.in/p/d_mRFFZW)
 
 ## 💼 Virtual Internship Experience
-### Deloitte Data Analytics Virtual Internship
+
+💼 **Deloitte Data Analytics Virtual Internship**
+
 🔗 [View Internship Certificate](https://lnkd.in/p/dZqJZmnh)
 
 ## 📫 Let's Connect
